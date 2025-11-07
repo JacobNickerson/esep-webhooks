@@ -1,0 +1,6 @@
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll

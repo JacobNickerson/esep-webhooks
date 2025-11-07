@@ -1,0 +1,17 @@
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.deps.json
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.runtimeconfig.json
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.dll
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.pdb
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Core.dll
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.dll
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/refint/EsepWebhook.dll
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/home/jacobnickerson/schoolwork/CIS4930/assignment-10/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
